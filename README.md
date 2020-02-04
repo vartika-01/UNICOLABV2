@@ -1,2 +1,2 @@
 # UNICOLABV2
-This is a web portal that for university collaboration.
+This is a web portal for university collaboration.
